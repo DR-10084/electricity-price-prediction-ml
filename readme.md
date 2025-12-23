@@ -1,5 +1,16 @@
 
 
+
+## Problem
+Electricity prices vary hourly in deregulated markets, affecting consumers and generators.
+
+## Solution
+This project uses a Random Forest ML model to predict day-ahead electricity prices using load and weather data.
+
+## Why it matters
+Accurate price prediction helps in optimal energy usage and market planning.
+
+
 # Electricity Price Prediction using Machine Learning
 
 This project implements a **Random Forest Regression model** to predict 
@@ -9,11 +20,12 @@ weather data, load forecast, and power generation data**.
 The work focuses on understanding how different factors influence electricity 
 prices in a **deregulated electricity market**.
 
+
 ---
 
 ## Dataset
 
-This project uses **publicly available datasets**, including:
+This project uses **publicly available datasets from Kaggle**, including:
 
 - Electricity generation data
 - Weather data for multiple cities
